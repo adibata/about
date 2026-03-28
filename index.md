@@ -99,6 +99,6 @@
   <img src="assets/logo.svg" alt="Khamari Logo" width="30" height="30">
   <p><strong>ଖମାରି v1.1.0</strong><br>
   ଓଡ଼ିଶାର ଚାଷୀଙ୍କ ପାଇଁ ନିର୍ମିତ<br>
-  ଯୋଗାଯୋଗ: <a href="mailto:bhagabatiprasad@gmail.com">bhagabatiprasad@gmail.com</a>
+  ଯୋଗାଯୋଗ: <a href="mailto:adibatatrust@gmail.com">bhagabatiprasad@gmail.com</a>
   </p>
 </div>

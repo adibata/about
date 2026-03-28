@@ -101,6 +101,6 @@ Bina invited her husband and son to the farm.
   <img src="assets/logo.svg" alt="Khamari Logo" width="30" height="30">
   <p><strong>Khamari v1.1.0</strong><br>
   Designed & Built with ❤️ for the Farmers of India<br>
-  Support: <a href="mailto:bhagabatiprasad@gmail.com">bhagabatiprasad@gmail.com</a>
+  Support: <a href="mailto:adibatatrust@gmail.com">bhagabatiprasad@gmail.com</a>
   </p>
 </div>
