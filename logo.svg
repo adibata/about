@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="512" height="512" fill="none">
+
+  <!-- Background: deep earth -->
+  <rect width="72" height="72" rx="18" fill="#1A0F05"/>
+
+  <!-- Stalk: thick gold -->
+  <line x1="36" y1="64" x2="36" y2="16"
+        stroke="#E8B84B" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Left leaf: saffron -->
+  <path d="M36 51 Q22 43 20 31 Q32 36 36 51Z" fill="#E8680A"/>
+
+  <!-- Right leaf: deep saffron -->
+  <path d="M36 42 Q50 34 52 22 Q40 27 36 42Z" fill="#C8440A"/>
+
+  <!-- Seed: bright gold -->
+  <ellipse cx="36" cy="14" rx="5.5" ry="7.5" fill="#F5D264"/>
+
+  <!-- Side circles: gold -->
+  <circle cx="29" cy="19" r="3.5" fill="#E8B84B"/>
+  <circle cx="43" cy="19" r="3.5" fill="#E8B84B"/>
+
+</svg>
