@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.svg" alt="Khamari Logo" width="120" height="120">
+  <img src="logo.svg" alt="Khamari Logo" width="120" height="120">
   <h1>Khamari: Your Digital Farm Partner</h1>
   <p><strong>The Most Comprehensive Integrated Farm Management App for Indian Farmers</strong></p>
 </div>
@@ -98,7 +98,7 @@ Bina invited her husband and son to the farm.
 ---
 <br>
 <div align="center">
-  <img src="assets/logo.svg" alt="Khamari Logo" width="30" height="30">
+  <img src="logo.svg" alt="Khamari Logo" width="30" height="30">
   <p><strong>Khamari v1.1.0</strong><br>
   Designed & Built with ❤️ for the Farmers of India<br>
   Support: <a href="mailto:therootbit@gmail.com">Contact Therootbit</a>
