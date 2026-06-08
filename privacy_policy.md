@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="assets/logo.svg" alt="Khamari Logo" width="120" height="120">
+  <h1>ପ୍ରାଇଭେସି ପଲିସି - ଖମାରି</h1>
+  <p><strong>Privacy Policy — Khamari</strong></p>
+</div>
+
+---
+[Back to Home](index.md)
+
 # Privacy Policy — ଖମାରି (Khamari)
 
 **Last updated:** February 27, 2026
@@ -106,8 +115,8 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 
 If you have any questions or concerns about this Privacy Policy, please contact:
 
-**BPM (Khamari App)**
-Email: `your-contact-email@example.com`
+**Therootbit (Khamari App)**
+Email: `therootbit@gmail.com`
 
 ---
 
