@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.svg" alt="Khamari Logo" width="120" height="120">
+  <img src="logo.svg" alt="Khamari Logo" width="120" height="120">
   <h1>ଖମାରି: ଆପଣଙ୍କ ଡିଜିଟାଲ୍ ଚାଷ ପରିଚାଳକ</h1>
   <p><strong>ଭାରତୀୟ ଚାଷୀଙ୍କ ପାଇଁ ସବୁଠାରୁ ଶକ୍ତିଶାଳୀ ସମନ୍ୱିତ ଫାର୍ମ ପରିଚାଳନା ଆପ୍</strong></p>
 </div>
@@ -96,7 +96,7 @@
 ---
 <br>
 <div align="center">
-  <img src="assets/logo.svg" alt="Khamari Logo" width="30" height="30">
+  <img src="logo.svg" alt="Khamari Logo" width="30" height="30">
   <p><strong>ଖମାରି v1.1.0</strong><br>
   ଓଡ଼ିଶାର ଚାଷୀଙ୍କ ପାଇଁ ନିର୍ମିତ<br>
   ଯୋଗାଯୋଗ: <a href="mailto:therootbit@gmail.com">Contact Therootbit</a>
