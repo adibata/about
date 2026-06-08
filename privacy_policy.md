@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.svg" alt="Khamari Logo" width="120" height="120">
+  <img src="logo.svg" alt="Khamari Logo" width="120" height="120">
   <h1>ପ୍ରାଇଭେସି ପଲିସି - ଖମାରି</h1>
   <p><strong>Privacy Policy — Khamari</strong></p>
 </div>
