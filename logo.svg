@@ -1,24 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="512" height="512" fill="none">
+  <defs>
+    <!-- Golden gradient for stalk and side circles -->
+    <linearGradient id="goldGrad" x1="36" y1="60.5" x2="36" y2="22.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#C8922A"/>
+      <stop offset="100%" stop-color="#E8B84B"/>
+    </linearGradient>
+
+    <!-- Saffron gradient for left leaf -->
+    <linearGradient id="saffronGrad" x1="20" y1="57.5" x2="52" y2="28.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E8680A"/>
+      <stop offset="100%" stop-color="#F57138"/>
+    </linearGradient>
+    <!-- Saffron gradient for right leaf -->
+    <linearGradient id="orangeGrad" x1="20" y1="57.5" x2="52" y2="28.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#C80A30"/>
+      <stop offset="100%" stop-color="#F57138"/>
+    </linearGradient>
+
+    <!-- Precious "Asset" radial gradient for the top seed -->
+    <radialGradient id="assetGrad" cx="36" cy="20.5" r="9" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFF8E1"/>
+      <stop offset="40%" stop-color="#FAE8B8"/>
+      <stop offset="100%" stop-color="#F5D264"/>
+    </radialGradient>
+  </defs>
 
   <!-- Background: deep earth -->
   <rect width="72" height="72" rx="18" fill="#1A0F05"/>
 
-  <!-- Stalk: thick gold -->
-  <line x1="36" y1="64" x2="36" y2="16"
-        stroke="#E8B84B" stroke-width="5" stroke-linecap="round"/>
+  <!-- Leaves: Shifted for vertical centering -->
+  <path d="M36 57.5 Q22 49.5 20 37.5 Q32 42.5 36 57.5Z" fill="url(#saffronGrad)"/>
+  <path d="M36 48.5 Q50 40.5 52 28.5 Q40 33.5 36 48.5Z" fill="url(#orangeGrad)"/>
 
-  <!-- Left leaf: saffron -->
-  <path d="M36 51 Q22 43 20 31 Q32 36 36 51Z" fill="#E8680A"/>
+  <!-- Stalk: Shifted for vertical centering -->
+  <line x1="36" y1="56.5" x2="36" y2="20.5"
+      stroke="url(#goldGrad)" stroke-width="7" stroke-linecap="round"/>
 
-  <!-- Right leaf: deep saffron -->
-  <path d="M36 42 Q50 34 52 22 Q40 27 36 42Z" fill="#C8440A"/>
+  <!-- The Core Asset: Shifted for vertical centering -->
+  <ellipse cx="36" cy="20.5" rx="7" ry="9" fill="url(#assetGrad)"/>
 
-  <!-- Seed: bright gold -->
-  <ellipse cx="36" cy="14" rx="5.5" ry="7.5" fill="#F5D264"/>
-
-  <!-- Side circles: gold -->
-  <circle cx="29" cy="19" r="3.5" fill="#E8B84B"/>
-  <circle cx="43" cy="19" r="3.5" fill="#E8B84B"/>
+  <!-- Side elements: Shifted for vertical centering -->
+  <circle cx="29" cy="25.5" r="4.0" fill="url(#goldGrad)"/>
+  <circle cx="43" cy="25.5" r="4.0" fill="url(#goldGrad)"/>
 
 </svg>
